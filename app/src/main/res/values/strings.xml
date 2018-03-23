@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">RSDemo</string>
+    <string name="idt">身份证号</string>
+    <string name="ros">机器状态码反馈：</string>
+    <string name="d3t">关机</string>
+
+</resources>
